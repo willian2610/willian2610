@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Willian de Vargas! I am a Brazilian Biomedical Informatics student who loves to learn new things! I currently work with web and mobile development.
+
 <!--
 **willian2610/willian2610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
