@@ -1,14 +1,14 @@
 ### Olá! 👋
 
-Meu nome é Willian de Vargas! Eu sou um estudante Brasileiro de Informática Biomédica que ama tecnologia e aprender coisas novas! Eu atualmente trabalho com desenvolvimento web e mobile.
+Meu nome é Willian de Vargas! Eu sou um estudante Brasileiro de Informática Biomédica que ama tecnologia e aprender coisas novas! Eu atualmente trabalho como estagiário em Engenharia de Dados.
 
 ### Hi there 👋
 
-My name is Willian de Vargas! I am a Brazilian Biomedical Informatics student who loves technology and to learn about new things! I currently work with web and mobile development.
+My name is Willian de Vargas! I am a Brazilian Biomedical Informatics student who loves technology and to learn about new things! I currently work as intern in Data Engineering.
 
 ### ¡Hola! 👋
 
-¡Mi nombre es Willian de Vargas! ¡Soy un estudiante brasileño de Informática Biomédica que ama la tecnología y aprender cosas nuevas! Actualmente trabajo con desarrollo web y mobile.
+¡Mi nombre es Willian de Vargas! ¡Soy un estudiante brasileño de Informática Biomédica que ama la tecnología y aprender cosas nuevas! Actualmente trabajo como interno en Ingeniería de Datos
 
 <!--
 **willian2610/willian2610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
