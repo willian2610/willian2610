@@ -54,9 +54,8 @@
 
 ### 📈 Stats:
 
-![Willian's github stats](https://github-readme-stats.vercel.app/api?username=willian2610&count_private=true&show_icons=true&theme=dark)
+![Willian's github stats](https://github-readme-stats.vercel.app/api?username=willian2610&count_private=true&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willian2610&count_private=true&layout=compact&show_icons=true&langs_count=10&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willian2610&count_private=true&layout=compact&show_icons=true&langs_count=10&theme=dark)
 
 
 <!--
