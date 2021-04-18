@@ -1,26 +1,48 @@
-### Olá! 👋
+## Hi, I'm Willian! 👋
+-----------
+📘 I'm a Brazilian Biomedical Informatic Student at UFCSPA.
 
-Meu nome é Willian de Vargas! Eu sou um estudante Brasileiro de Informática Biomédica que ama tecnologia e aprender coisas novas! Eu atualmente trabalho como estagiário em Engenharia de Dados.
+💼 I currently work as intern in Data Engineerign at Ilegra.
 
-### Hi there 👋
+-----------
+### You can find me at:
+<a target="_blank" href="https://www.linkedin.com/in/williandevargas/">
+  <img align="left" alt="LinkdeIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-My name is Willian de Vargas! I am a Brazilian Biomedical Informatics student who loves technology and to learn about new things! I currently work as intern in Data Engineering.
+<a target="_blank" href="https://github.com/willian2610">
+  <img align="left" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-### ¡Hola! 👋
+-----------
+### 🚀 Skills:
 
-¡Mi nombre es Willian de Vargas! ¡Soy un estudiante brasileño de Informática Biomédica que ama la tecnología y aprender cosas nuevas! Actualmente trabajo como interno en Ingeniería de Datos
+#### Advanced:
+
+<img align="left" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img align="left" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img align="left" alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+<img align="left" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img align="left" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<br/>
+
+#### Medium:
+
+<img align="left" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img align="left" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img align="left" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img align="left" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="left" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img align="left" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<br/>
+
+#### Basic:
+
+<img align="left" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img align="left" alt="GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 
 <!--
 **willian2610/willian2610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Badges Source: https://github.com/alexandresanlim/Badges4-README.md-Profile
 -->
