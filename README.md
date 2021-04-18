@@ -46,6 +46,16 @@
 <img align="left" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img align="left" alt="GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 
+<br/>
+
+---
+
+### 📈 Stats:
+
+![Willian's GitHub stats](https://github-readme-stats.vercel.app/api?username=willian2610&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willian2610&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **willian2610/willian2610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Badges Source: https://github.com/alexandresanlim/Badges4-README.md-Profile
