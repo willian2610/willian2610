@@ -1,10 +1,9 @@
 ## Hi, I'm Willian! 👋
------------
+
 📘 I'm a Brazilian Biomedical Informatic Student at UFCSPA.
 
 💼 I currently work as intern in Data Engineerign at Ilegra.
 
------------
 ### You can find me at:
 <a target="_blank" href="https://www.linkedin.com/in/williandevargas/">
   <img align="left" alt="LinkdeIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -14,7 +13,6 @@
   <img align="left" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
------------
 ### 🚀 Skills:
 
 #### Advanced:
