@@ -1,6 +1,6 @@
 ## Hi, I'm Willian! 👋
 
-📘 I'm a Brazilian Biomedical Informatic Student at UFCSPA.
+📘 I'm a Brazilian Biomedical Informatics Student at UFCSPA.
 
 💼 I currently work as intern in Data Engineering at Ilegra.
 <br/>
