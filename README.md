@@ -53,7 +53,9 @@
 <img align="left" alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" />
 <img align="left" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
+&nbsp;
 ---
+&nbsp;
 
 ### 📈 Stats:
 
