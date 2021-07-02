@@ -44,7 +44,9 @@
 ![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![powershell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)
+![elastic](https://img.shields.io/badge/elastic-ffca28?style=for-the-badge&logo=elastic&logoColor=grey)
 ![elasticsearch](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![kibana](https://img.shields.io/badge/kibana-2CA5E0?style=for-the-badge&logo=kibana&logoColor=white)
 
 
 ---
