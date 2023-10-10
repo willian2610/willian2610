@@ -51,13 +51,13 @@
 ![logstash](https://img.shields.io/badge/logstash-ECB42E?style=for-the-badge&logo=logstash&logoColor=white)
 ![kibana](https://img.shields.io/badge/kibana-2CB47C?style=for-the-badge&logo=kibana&logoColor=white)
 
-
+<!--
 ---
 
 ### 📈 Stats:
 
 ![Willian's github stats](https://github-readme-stats.vercel.app/api?username=willian2610&count_private=true&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willian2610&count_private=true&layout=compact&show_icons=true&langs_count=10&theme=dark)
-
+-->
 
 <!--
 **willian2610/willian2610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
